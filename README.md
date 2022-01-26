@@ -78,7 +78,7 @@ export class AppModule {
 
 ```html
 
-<!-- hover change colors-->
+<!-- hover on this element change the cursor style-->
 <a href="..."
    ngx-beautify-cursor-circle-bg-color="rgba(255,69,0,0.1)"
    ngx-beautify-cursor-circle-border-color="orange"
