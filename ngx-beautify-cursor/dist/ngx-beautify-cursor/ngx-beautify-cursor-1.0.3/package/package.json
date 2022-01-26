@@ -1,0 +1,44 @@
+{
+  "name": "ngx-beautify-cursor",
+  "version": "1.0.3",
+  "author": "Maor Assayag",
+  "description": "Simple Angular package to beautify your cursor in angular",
+  "homepage": "https://github.com/MaorAssayag/ngx-beautify-cursor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaorAssayag/ngx-beautify-cursor"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Angular",
+    "cursor",
+    "beautiful",
+    "beautiful-cursor",
+    "cursor javascript",
+    "cursor typescript",
+    "ux cursor",
+    "ngx-cursor",
+    "ng cursor",
+    "cursor pointer",
+    "ngx-beautify-cursor",
+    "beautify-cursor",
+    "ngx-beautify",
+    "fluid cursor"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^12.1.0",
+    "@angular/core": "^12.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.2.0",
+    "@ngneat/until-destroy": "^9.0.0",
+    "gsap": "^3.7.1"
+  },
+  "main": "bundles/ngx-beautify-cursor.umd.js",
+  "module": "fesm2015/ngx-beautify-cursor.js",
+  "es2015": "fesm2015/ngx-beautify-cursor.js",
+  "esm2015": "esm2015/ngx-beautify-cursor.js",
+  "fesm2015": "fesm2015/ngx-beautify-cursor.js",
+  "typings": "ngx-beautify-cursor.d.ts",
+  "sideEffects": false
+}

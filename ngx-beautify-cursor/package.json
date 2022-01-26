@@ -1,6 +1,6 @@
 {
   "name": "ngx-beautify-cursor",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "author": "Maor Assayag",
   "description": "Simple Angular package to beautify your cursor in angular",
   "homepage": "https://github.com/MaorAssayag/ngx-beautify-cursor",
@@ -15,7 +15,9 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
-  "files": ["dist/ngx-beautify-cursor/*"],
+  "files": [
+    "dist/ngx-beautify-cursor/*"
+  ],
   "keywords": [
     "Angular",
     "cursor",
