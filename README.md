@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MaorAssayag/chartjs-plugin-cyclic-axis/blob/main/assets/chartjs-cyclic-axis-logo.svg" alt="Your image title" width="300"/>
+  <img src="https://github.com/MaorAssayag/ngx-beautify-cursor/blob/main/assets/package-logo.png" alt="Oops!" width="200"/>
 </p>
 
 <p align="center">
