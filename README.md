@@ -85,7 +85,7 @@ export class AppModule {
    ngx-beautify-cursor-dot-color="orange">
 </a>
 ```
-
+#
 ## Cursor Inputs
 
 | Parameters name                | Default value             | Valid inputs               | Functionality                                               |
@@ -109,6 +109,7 @@ export class AppModule {
 | `nParentsStyleCheck`           | 5                         | number > 1                 | how many HTML parents to check for style custom classes     |
 | `zIndex`                       | 999                       | cursor z-index             | config big z-index                                          |
 
+#
 ## Custom style classes
 
 | Attribute name                              | Functionality             |
@@ -117,6 +118,7 @@ export class AppModule {
 | `ngx-beautify-cursor-circle-border-color`   | circle border color       |
 | `ngx-beautify-cursor-dot-color`             | dot color                 |
 
+#
 ## Thanks :blue_heart:
 
 * While browsing *dribbble.com* & enjoying myself I came across *https://zajno.com* website and instantly loved their
